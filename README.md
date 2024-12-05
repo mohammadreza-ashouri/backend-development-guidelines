@@ -9,7 +9,7 @@ Managing a team of software developers can be challenging, especially for startu
 
 - Always create a new feature branch from the latest deploy branch
 
-- Use descriptive branch names (e.g., feature/wallet-validation)
+- Use descriptive branch names (e.g., feature/x-validation)
 
 - Keep branches focused on single features/fixes
 
